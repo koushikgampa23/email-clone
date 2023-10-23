@@ -1,0 +1,23 @@
+.container{
+  background-color: #f4f5f9;
+}
+
+.header{
+  display: flex;
+  gap: 20px;
+  margin: 15px;
+  font-size: 16px;
+}
+
+.tabActive {
+  background-color: #e1e4ea;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.tab{
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}

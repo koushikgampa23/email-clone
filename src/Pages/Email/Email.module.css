@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    gap: 20px;
+    margin: 15px;
+    font-size: 16px;
+}
+
+.pageButton{
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid grey;
+    padding: 10px;
+}
+
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 10px;
+}

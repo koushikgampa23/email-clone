@@ -1,0 +1,115 @@
+.container{
+    border: 2px solid #cfd2dc;
+    background-color: #f2f2f2;
+    margin-bottom: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    min-width: 500px;
+}
+
+.active{
+    background-color: white;
+    border: 2px solid #cfd2dc;
+    margin-bottom: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    min-width: 400px;
+}
+
+.subheading{
+    color: #636363;
+    font-weight: 700;
+}
+
+.icon{
+    font-size: 36px;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #e54065;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.description{
+    margin-top: 5px;
+    display: grid;
+    gap: 5px;
+}
+
+.mainContainer{
+    display: flex;
+    width: 100%;
+}
+
+.emailBody {
+    display: grid;
+    gap: 10px;
+}
+
+.buttonStyle {
+    padding: 20px;
+    color: white;
+    background-color: #e54065;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.favoriteContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contentContainer{
+    width: 100%;
+}
+
+.emailContainer{
+    background-color: white;
+    border: 2px solid #cfd2dc;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.heading{
+    color: #636363;
+}
+
+.subIcon {
+    font-size: 24px;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #e54065;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 30px;
+}
+
+.bodyHeader{
+    display: flex;
+    gap: 10px;
+}
+
+.iconActive{
+    color: blue;
+    font-size: 30px;
+}
+
+.iconStyle {
+    color: grey;
+    font-size: 30px;
+}
+
+.iconContainer{
+    display: flex;
+    align-items: center;
+}
